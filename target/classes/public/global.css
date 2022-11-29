@@ -1,0 +1,28 @@
+body {
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+    background-color: #E9C11E;
+}
+
+main {
+    overflow: hidden;
+}
+
+header {
+    height: 75px;
+    background-color: white;
+}
+
+#logo {
+    height: 65px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+p {
+    font-size: small;
+}
+
+footer {
+    background-color: #ffffff;
+}

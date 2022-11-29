@@ -1,0 +1,91 @@
+body {
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: #E9C11E;
+}
+
+main {
+    overflow: hidden;
+    height: calc(100vh - 75px - 55px);
+}
+
+.site-largura {
+    margin: auto;
+    max-width: 1000px;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+}
+
+.header-1 {
+    height: 75px;
+}
+
+#logo {
+    height: 65px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.formulario {
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    border-radius: 5px;
+    width: 50%;
+}
+
+form input {
+    margin-top: 4px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 2px solid #D58F14;
+    border-radius: 5px;
+}
+
+button {
+    font-weight: bold;
+    margin-top: 10px;
+    width: 100%;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button:hover {
+    border: 3px solid #D58F14;
+    border-radius: 5px;
+    box-shadow: #D58F14 0px 0px 10px;
+}
+
+p {
+    padding-top: 10px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+footer {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.rodape {
+    height: 55px;
+    text-align: center;
+    font-size: small;
+    background-color: #ffffff;
+}
+
+.loading label {
+    color: #ffffff;
+    font-size: 24px;
+}
+
